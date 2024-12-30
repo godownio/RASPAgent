@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="expressionTest_premain" type="JarApplication">
+    <option name="JAR_PATH" value="$PROJECT_DIR$/agent/target/agent-1.0.0-shaded.jar" />
+    <option name="VM_PARAMETERS" value="-Dfile.encoding=UTF-8 -noverify -Xbootclasspath/p:E:\CODE_COLLECT\Idea_java_ProTest\javawebAgent\agent\target\agent.jar -javaagent:E:\CODE_COLLECT\Idea_java_ProTest\javawebAgent\agent\target\agent.jar" />
+    <option name="WORKING_DIRECTORY" value="E:\CODE_COLLECT\Idea_java_ProTest\javawebAgent" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <module name="agent" />
+    <method v="2" />
+  </configuration>
+</component>

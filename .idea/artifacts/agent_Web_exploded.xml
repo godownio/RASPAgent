@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="agent:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/agent_Web_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="agent" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.mvel:mvel2:2.2.8.Final" />
+          <element id="library" level="project" name="Maven: org.ow2.asm:asm-all:5.1" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="agent/web/Web" />
+    </root>
+  </artifact>
+</component>

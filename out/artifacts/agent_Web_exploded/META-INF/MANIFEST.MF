@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: Administrator
+Build-Jdk: Oracle OpenJDK version 1.8.0_65
+Implementation-Title: agent
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: cn.org.javaweb
+Main-Class: cn.org.javaweb.agent.premain.MainTest
+Premain-Class: cn.org.javaweb.agent.Agent
+Can-Retransform-Classes: true
+Can-Redefine-Classes: true
+Can-Set-Native-Method-Prefix: true
+

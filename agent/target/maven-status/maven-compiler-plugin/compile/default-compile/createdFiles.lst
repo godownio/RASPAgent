@@ -1,0 +1,17 @@
+cn\org\javaweb\agent\AgentTransform.class
+cn\org\javaweb\agent\attach\MainTest.class
+cn\org\javaweb\agent\TestClassVisitor$1.class
+cn\org\javaweb\agent\attach\attachjar\CustomClassTransformer$1$1.class
+cn\org\javaweb\agent\premain\premainAgent.class
+cn\org\javaweb\agent\premain\premainAgent$1$1.class
+cn\org\javaweb\agent\attach\Attachit_execinRun.class
+cn\org\javaweb\agent\premain\MethodHookDesc.class
+cn\org\javaweb\agent\attach\attachjar\attachAgent.class
+cn\org\javaweb\agent\attach\attachjar\CustomClassTransformer.class
+cn\org\javaweb\agent\premain\premainAgent$1$1$1.class
+cn\org\javaweb\agent\TestClassVisitor.class
+cn\org\javaweb\agent\premain\premainAgent$1.class
+cn\org\javaweb\agent\Agent.class
+cn\org\javaweb\agent\attach\attachjar\CustomClassTransformer$1.class
+cn\org\javaweb\agent\ProcessBuilderHook.class
+cn\org\javaweb\agent\premain\MainTest.class
