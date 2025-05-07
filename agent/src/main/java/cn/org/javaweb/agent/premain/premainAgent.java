@@ -12,6 +12,7 @@ import java.util.List;
 
 
 //MANIFEST.MF需要配置Premain-Class: cn.org.javaweb.agent.premain.premainAgent
+//表达式注入RASP，对应文章目录4.1
 public class premainAgent implements Opcodes {
     private static List<MethodHookDesc> expClassList = new ArrayList<MethodHookDesc>();
 
